@@ -1,0 +1,34 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "ClientsShowcaseSlice",
+    "primary": {
+      "kicker": "architect customized niches",
+      "title": [
+        {
+          "type": "paragraph",
+          "text": "Aliquip aute dolor officia dolor cupidatat aute eiusmod non do ipsum non ea Lorem sunt. Tempor ex enim aliquip Lorem anim. Eu aliqua commodo aliquip sunt amet laboris dolor.",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Consectetur est tempor adipisicing reprehenderit pariatur cupidatat deserunt veniam ea nulla culpa.",
+          "spans": []
+        }
+      ],
+      "callToActionLabel": "expedite cutting-edge content",
+      "callToActionLink": {
+        "link_type": "Web",
+        "url": "https://prismic.io"
+      },
+      "showLogosOnly": false
+    },
+    "items": [],
+    "slice_type": "clients_showcase_slice"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "FooterMenuSlice",
+    "primary": {
+      "footerLinkListHeading": "leverage open-source portals"
+    },
+    "items": [
+      {
+        "footerLinkText": "visualize transparent blockchains",
+        "footerLink": {
+          "link_type": "Web",
+          "url": "https://slicemachine.dev"
+        }
+      },
+      {
+        "footerLinkText": "orchestrate B2C action-items",
+        "footerLink": {
+          "link_type": "Web",
+          "url": "https://slicemachine.dev"
+        }
+      },
+      {
+        "footerLinkText": "engineer interactive web services",
+        "footerLink": {
+          "link_type": "Web",
+          "url": "http://google.com"
+        }
+      },
+      {
+        "footerLinkText": "empower value-added methodologies",
+        "footerLink": {
+          "link_type": "Web",
+          "url": "https://slicemachine.dev"
+        }
+      }
+    ],
+    "slice_type": "footer_menu_slice"
+  }
+]

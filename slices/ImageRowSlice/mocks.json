@@ -1,0 +1,61 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "ImageRowSlice",
+    "primary": {
+      "title": [
+        {
+          "type": "paragraph",
+          "text": "Quis aute ex dolor et. Tempor aliqua laboris Lorem mollit laborum commodo officia nostrud id ex ad incididunt.",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Pariatur dolor ut exercitation consequat anim nisi magna ut magna non nulla labore eu officia. Aute laboris eiusmod veniam eiusmod excepteur. Fugiat laboris nulla eu laboris ad aliqua magna esse mollit veniam et aliquip fugiat id.",
+          "spans": []
+        }
+      ]
+    },
+    "items": [
+      {
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1551739440-5dd934d3a94a?w=900&h=500&fit=crop"
+        }
+      },
+      {
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1493119508027-2b584f234d6c?w=900&h=500&fit=crop"
+        }
+      },
+      {
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&h=500&fit=crop"
+        }
+      }
+    ],
+    "slice_type": "image_row_slice"
+  }
+]

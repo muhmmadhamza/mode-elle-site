@@ -1,0 +1,27 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "UpcomingEventsSlice",
+    "primary": {
+      "title": [
+        {
+          "type": "paragraph",
+          "text": "Laboris incididunt ad do irure incididunt amet mollit occaecat duis laborum aute do incididunt officia in. Aliquip ullamco excepteur labore anim minim eu esse. Fugiat Lorem voluptate dolor ullamco esse anim ad reprehenderit reprehenderit ad ex et cillum.",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Fugiat laborum pariatur ad velit.",
+          "spans": []
+        }
+      ]
+    },
+    "items": [],
+    "slice_type": "upcoming_events_slice"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "BannerSlice",
+    "primary": {
+      "title": [
+        {
+          "type": "paragraph",
+          "text": "Magna labore commodo nisi sit est cupidatat",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Eu magna Lorem enim. Fugiat exercitation mollit ipsum eu.",
+          "spans": []
+        }
+      ],
+      "link": {
+        "link_type": "Web",
+        "url": "https://slicemachine.dev"
+      },
+      "linkLabel": "implement synergies",
+      "background": {
+        "dimensions": {
+          "width": 900,
+          "height": 500
+        },
+        "alt": "Placeholder image",
+        "copyright": null,
+        "url": "https://images.unsplash.com/photo-1601933973783-43cf8a7d4c5f?w=900&h=500&fit=crop"
+      }
+    },
+    "items": [],
+    "slice_type": "banner_slice"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "HeroBannerSlice",
+    "primary": {
+      "title": "matrix global e-business",
+      "quoteText": [
+        {
+          "type": "paragraph",
+          "text": "Dolore sunt cupidatat fugiat ullamco anim sint nulla fugiat fugiat excepteur est nulla tempor id non. Ex in eu consectetur proident magna officia adipisicing et cupidatat in.",
+          "spans": []
+        }
+      ],
+      "quoteAuthor": "synergize next-generation infomediaries"
+    },
+    "items": [],
+    "slice_type": "hero_banner_slice"
+  }
+]

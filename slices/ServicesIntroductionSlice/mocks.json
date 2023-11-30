@@ -1,0 +1,27 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "ServicesIntroductionSlice",
+    "primary": {
+      "title": [
+        {
+          "type": "paragraph",
+          "text": "Esse duis labore qui reprehenderit consectetur sint ex culpa occaecat dolor.",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Minim mollit nisi elit sint nostrud culpa irure aliquip consequat elit in. Ea sint irure non esse reprehenderit ut velit non veniam dolore.",
+          "spans": []
+        }
+      ]
+    },
+    "items": [],
+    "slice_type": "services_introduction_slice"
+  }
+]

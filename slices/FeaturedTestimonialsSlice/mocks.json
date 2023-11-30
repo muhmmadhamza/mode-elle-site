@@ -1,0 +1,27 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "FeaturedTestimonialsSlice",
+    "primary": {
+      "title": [
+        {
+          "type": "paragraph",
+          "text": "Magna cupidatat laboris irure ut occaecat excepteur laborum. Fugiat cillum sint dolore eu esse sit aliquip sint consectetur. Pariatur et laborum do nisi fugiat et deserunt minim.",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Et quis culpa voluptate est velit cupidatat minim nisi Lorem exercitation dolore exercitation do eu.",
+          "spans": []
+        }
+      ]
+    },
+    "items": [],
+    "slice_type": "featured_testimonials_slice"
+  }
+]

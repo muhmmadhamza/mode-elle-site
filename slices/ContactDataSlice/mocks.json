@@ -1,0 +1,31 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "ContactDataSlice",
+    "primary": {
+      "contactData": [
+        {
+          "type": "paragraph",
+          "text": "Non dolor tempor occaecat proident elit fugiat elit et officia quis.",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "Ad exercitation duis non elit dolor aliquip ipsum magna magna adipisicing. Id esse cillum mollit est amet veniam commodo sunt commodo adipisicing id non laboris.",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "Officia id consectetur officia Lorem est dolor aute in elit esse labore Lorem aliquip sit. Aliquip consequat nulla ex proident deserunt commodo. Pariatur incididunt eu excepteur incididunt laboris ad qui cillum reprehenderit.",
+          "spans": []
+        }
+      ],
+      "mapCenterAddress": "291 Front St, Belleville, ON K8N 2Z6, Canada"
+    },
+    "items": [],
+    "slice_type": "contact_data_slice"
+  }
+]

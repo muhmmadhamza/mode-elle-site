@@ -1,0 +1,32 @@
+{
+  "id": "seo_information_slice",
+  "type": "SharedSlice",
+  "name": "SeoInformationSlice",
+  "description": "SeoInformationSlice",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "SeoInformationSlice",
+      "primary": {
+        "titleTag": {
+          "config": {
+            "label": "Title tag",
+            "placeholder": "Short content desc. (Moz guide)"
+          },
+          "type": "Text"
+        },
+        "metaDescription": {
+          "config": {
+            "label": "",
+            "placeholder": "155–160 character descr (Moz guide)"
+          },
+          "type": "Text"
+        }
+      },
+      "items": {}
+    }
+  ]
+}

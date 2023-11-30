@@ -1,0 +1,27 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "EventsSlice",
+    "primary": {
+      "title": [
+        {
+          "type": "paragraph",
+          "text": "Ut excepteur commodo excepteur et mollit aute id eiusmod cupidatat aliquip sint sunt proident irure magna.",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Ut voluptate aliqua mollit sit tempor officia magna tempor consequat nostrud cillum.",
+          "spans": []
+        }
+      ]
+    },
+    "items": [],
+    "slice_type": "events_slice"
+  }
+]

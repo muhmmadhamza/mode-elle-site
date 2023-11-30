@@ -1,0 +1,30 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "TextWithImageSlice",
+    "primary": {
+      "text": [
+        {
+          "type": "paragraph",
+          "text": "Ad consequat nostrud consectetur nostrud consectetur ad reprehenderit quis. Laborum non occaecat adipisicing ipsum. Id incididunt pariatur anim fugiat mollit voluptate non culpa officia dolor consequat deserunt velit do aliquip.",
+          "spans": []
+        }
+      ],
+      "image": {
+        "dimensions": {
+          "width": 900,
+          "height": 500
+        },
+        "alt": "Placeholder image",
+        "copyright": null,
+        "url": "https://images.unsplash.com/photo-1587613865763-4b8b0d19e8ab?w=900&h=500&fit=crop"
+      },
+      "widthVariation": "default"
+    },
+    "items": [],
+    "slice_type": "text_with_image_slice"
+  }
+]

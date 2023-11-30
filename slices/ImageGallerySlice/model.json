@@ -1,0 +1,59 @@
+{
+  "id": "image_gallery_slice",
+  "type": "SharedSlice",
+  "name": "ImageGallerySlice",
+  "description": "ImageGallerySlice",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "ImageGallerySlice",
+      "primary": {
+        "title": {
+          "config": {
+            "label": "Image gallery title",
+            "placeholder": "Image gallery title",
+            "allowTargetBlank": true,
+            "single": "heading2"
+          },
+          "type": "StructuredText"
+        },
+        "description": {
+          "config": {
+            "label": "Image gallery description",
+            "placeholder": "Add an optional description",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          },
+          "type": "StructuredText"
+        }
+      },
+      "items": {
+        "image": {
+          "config": {
+            "label": "Gallery image",
+            "constraint": {},
+            "thumbnails": []
+          },
+          "type": "Image"
+        },
+        "alt": {
+          "config": {
+            "label": "Alternate text",
+            "placeholder": "Describe the image"
+          },
+          "type": "Text"
+        },
+        "caption": {
+          "config": {
+            "label": "Caption",
+            "placeholder": "Add an optional caption"
+          },
+          "type": "Text"
+        }
+      }
+    }
+  ]
+}

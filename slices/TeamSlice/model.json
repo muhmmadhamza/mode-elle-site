@@ -1,0 +1,86 @@
+{
+  "id": "team_slice",
+  "type": "SharedSlice",
+  "name": "TeamSlice",
+  "description": "TeamSlice",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "TeamSlice",
+      "primary": {
+        "sectionTitle": {
+          "type": "Text",
+          "config": {
+            "label": "",
+            "id": "sectionTitle",
+            "placeholder": ""
+          }
+        }
+      },
+      "items": {
+        "image": {
+          "type": "Image",
+          "config": {
+            "id": "image",
+            "label": "",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "name": {
+          "type": "Text",
+          "config": {
+            "label": "",
+            "id": "name",
+            "placeholder": ""
+          }
+        },
+        "title": {
+          "type": "Text",
+          "config": {
+            "label": "",
+            "id": "title",
+            "placeholder": ""
+          }
+        },
+        "bio": {
+          "config": {
+            "label": "",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+          },
+          "type": "StructuredText"
+        },
+        "video": {
+          "type": "Embed",
+          "config": {
+            "label": "",
+            "id": "video",
+            "placeholder": ""
+          }
+        },
+        "socialMediaLabel": {
+          "type": "Text",
+          "config": {
+            "label": "",
+            "id": "socialMediaLabel",
+            "placeholder": ""
+          }
+        },
+        "socialMediaLink": {
+          "type": "Link",
+          "config": {
+            "label": "",
+            "id": "socialMediaLink",
+            "placeholder": "",
+            "allowTargetBlank": true
+          }
+        }
+      }
+    }
+  ]
+}

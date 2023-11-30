@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Lexend";
+  font-weight: 200;
+  letter-spacing: 0.05em;
+  font-size: 16px;
+  overflow-y: scroll;
+}
+
+h2 {
+  margin-block-start: 0.75em;
+  margin-block-end: 0.15em;
+}
+
+p {
+  margin-block-start: 0.45em;
+  margin-block-end: 0.45em;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover {
+  cursor: pointer;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+::-moz-selection {
+  background: #b7b1a2;
+}
+::selection {
+  background: #b7b1a2;
+}
+
+/* 
+ * This ensures that zoomable images are still downloadable with right click
+ * The actual click is captured as onClick in a controlled component (see e.g. portfolio)
+ */
+.zoomable-image button {
+  pointer-events: none;
+}
+.zoomable-image a {
+  cursor: zoom-in;
+}
+[data-rmiz-btn-close] {
+  outline: 0;
+}
+
+.fc-event {
+  background-color: #eae8e5 !important;
+  border-color: hsl(36deg 11% 85%) !important;
+  color: black !important;
+  border-radius: 1px !important;
+}
+
+.fc-daygrid-event-dot {
+  border-color: #444;
+}
+
+.fc-event-title,
+.fc-event-time {
+  color: black !important;
+  font-weight: normal !important;
+}
+
+.fc-event-title {
+  word-wrap: break-word;
+  letter-spacing: initial;
+  display: block;
+
+  white-space: normal;
+}
+
+.fc .fc-button-primary {
+  background-color: #3d3d3d !important;
+}

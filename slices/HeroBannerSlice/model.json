@@ -1,0 +1,41 @@
+{
+  "id": "hero_banner_slice",
+  "type": "SharedSlice",
+  "name": "HeroBannerSlice",
+  "description": "HeroBannerSlice",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "HeroBannerSlice",
+      "primary": {
+        "title": {
+          "config": {
+            "label": "Title",
+            "placeholder": ""
+          },
+          "type": "Text"
+        },
+        "quoteText": {
+          "config": {
+            "label": "Quote Text",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph"
+          },
+          "type": "StructuredText"
+        },
+        "quoteAuthor": {
+          "config": {
+            "label": "Quote Author",
+            "placeholder": ""
+          },
+          "type": "Text"
+        }
+      },
+      "items": {}
+    }
+  ]
+}

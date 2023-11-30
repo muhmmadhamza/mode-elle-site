@@ -1,0 +1,20 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "ApplyFormSlice",
+    "primary": {
+      "title": [
+        {
+          "type": "heading2",
+          "text": "Productize ubiquitous schemas",
+          "spans": []
+        }
+      ]
+    },
+    "items": [],
+    "slice_type": "apply_form_slice"
+  }
+]

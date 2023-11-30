@@ -1,0 +1,32 @@
+{
+  "id": "portfolios_slice",
+  "type": "SharedSlice",
+  "name": "PortfoliosSlice",
+  "description": "PortfoliosSlice",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "PortfoliosSlice",
+      "primary": {
+        "divisionName": {
+          "config": {
+            "label": "Division name",
+            "placeholder": "fashion-women, fashion-men, ..."
+          },
+          "type": "Text"
+        },
+        "subsetUsernames": {
+          "config": {
+            "label": "Instead of all, only show these:",
+            "placeholder": "username1,username2,username3,..."
+          },
+          "type": "Text"
+        }
+      },
+      "items": {}
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "TextSlice": {},
+  "FooterMenuSlice": {},
+  "BannerSlice": {},
+  "QuoteSlice": {},
+  "SeoInformationSlice": {
+    "primary": {
+      "titleTag": {
+        "content": null
+      },
+      "metaDescription": {
+        "content": null
+      }
+    }
+  },
+  "ImageGallerySlice": {
+    "primary": {
+      "title": {
+        "config": {
+          "patternType": "HEADING",
+          "blocks": 1
+        }
+      },
+      "description": {
+        "config": {
+          "patternType": "PARAGRAPH",
+          "blocks": 1
+        }
+      }
+    },
+    "items": {
+      "alt": {
+        "content": null
+      },
+      "caption": {
+        "content": null
+      }
+    }
+  },
+  "InstagramGallerySlice": {
+    "items": {}
+  },
+  "ClientsShowcaseSlice": {
+    "primary": {
+      "description": {
+        "config": {
+          "patternType": "PARAGRAPH",
+          "blocks": 1
+        }
+      },
+      "callToActionLabel": {
+        "content": null
+      },
+      "kicker": {
+        "content": null
+      }
+    }
+  },
+  "ServicesIntroductionSlice": {},
+  "UpcomingEventsSlice": {},
+  "FeaturedTestimonialsSlice": {},
+  "TextWithImageSlice": {
+    "primary": {
+      "text": {
+        "config": {
+          "patternType": "PARAGRAPH",
+          "blocks": 1
+        }
+      }
+    }
+  },
+  "HeroBannerSlice": {
+    "primary": {
+      "quoteAuthor": {
+        "content": null
+      },
+      "quoteText": {
+        "config": {
+          "patternType": "PARAGRAPH",
+          "blocks": 1
+        }
+      },
+      "title": {
+        "content": null
+      }
+    }
+  },
+  "ImageRowSlice": {},
+  "PortfoliosSlice": {
+    "primary": {
+      "subsetUsernames": {
+        "content": null
+      },
+      "divisionName": {
+        "content": null
+      }
+    }
+  },
+  "TeamSlice": {
+    "items": {
+      "bio": {
+        "config": {
+          "patternType": "PARAGRAPH",
+          "blocks": 1
+        }
+      }
+    }
+  },
+  "ContactDataSlice": {
+    "primary": {
+      "contactData": {
+        "config": {
+          "patternType": "PARAGRAPH",
+          "blocks": 3
+        }
+      },
+      "mapCenterAddress": {
+        "content": "291 Front St, Belleville, ON K8N 2Z6, Canada"
+      }
+    }
+  },
+  "ContactFormSlice": {},
+  "ApplyFormSlice": {
+    "primary": {
+      "title": {
+        "config": {
+          "patternType": "HEADING",
+          "blocks": 1
+        }
+      }
+    }
+  },
+  "EventsSlice": {}
+}

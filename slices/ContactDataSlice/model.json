@@ -1,0 +1,34 @@
+{
+  "id": "contact_data_slice",
+  "type": "SharedSlice",
+  "name": "ContactDataSlice",
+  "description": "ContactDataSlice",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "ContactDataSlice",
+      "primary": {
+        "contactData": {
+          "config": {
+            "label": "Contact data",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,heading2,heading3,heading4,strong,em"
+          },
+          "type": "StructuredText"
+        },
+        "mapCenterAddress": {
+          "config": {
+            "label": "Map center address",
+            "placeholder": ""
+          },
+          "type": "Text"
+        }
+      },
+      "items": {}
+    }
+  ]
+}

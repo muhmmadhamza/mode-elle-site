@@ -1,0 +1,67 @@
+{
+  "id": "clients_showcase_slice",
+  "type": "SharedSlice",
+  "name": "ClientsShowcaseSlice",
+  "description": "ClientsShowcaseSlice",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "ClientsShowcaseSlice",
+      "primary": {
+        "kicker": {
+          "config": {
+            "label": "Kicker (above heading)",
+            "placeholder": ""
+          },
+          "type": "Text"
+        },
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "single": "heading1",
+            "label": "Title",
+            "placeholder": "This is where it all begins..."
+          }
+        },
+        "description": {
+          "config": {
+            "label": "Description",
+            "placeholder": "A nice description of your feature",
+            "allowTargetBlank": true,
+            "multi": "paragraph"
+          },
+          "type": "StructuredText"
+        },
+        "callToActionLabel": {
+          "config": {
+            "label": "Call to action label",
+            "placeholder": ""
+          },
+          "type": "Text"
+        },
+        "callToActionLink": {
+          "config": {
+            "label": "Call to action link",
+            "placeholder": "",
+            "allowTargetBlank": true
+          },
+          "type": "Link"
+        },
+        "showLogosOnly": {
+          "config": {
+            "label": "Show logos only",
+            "placeholder": "For standalone logo grid use",
+            "placeholder_false": "false",
+            "placeholder_true": "true",
+            "default_value": true
+          },
+          "type": "Boolean"
+        }
+      },
+      "items": {}
+    }
+  ]
+}

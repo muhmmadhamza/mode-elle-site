@@ -1,0 +1,26 @@
+{
+  "id": "contact_form_slice",
+  "type": "SharedSlice",
+  "name": "ContactFormSlice",
+  "description": "ContactFormSlice",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "ContactFormSlice",
+      "primary": {
+        "heading": {
+          "type": "Text",
+          "config": {
+            "label": "",
+            "id": "heading",
+            "placeholder": ""
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

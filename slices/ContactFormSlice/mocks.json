@@ -1,0 +1,14 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "ContactFormSlice",
+    "primary": {
+      "heading": "drive frictionless partnerships"
+    },
+    "items": [],
+    "slice_type": "contact_form_slice"
+  }
+]

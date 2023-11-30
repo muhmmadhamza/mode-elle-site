@@ -1,0 +1,27 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "InstagramGallerySlice",
+    "primary": {
+      "title": [
+        {
+          "type": "paragraph",
+          "text": "Anim elit duis dolor anim ut dolor proident do. Est quis est cillum Lorem nisi aliquip mollit eiusmod minim irure esse qui id sit.",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Consequat consectetur esse cillum reprehenderit esse fugiat eiusmod consequat Lorem irure consectetur anim ipsum.",
+          "spans": []
+        }
+      ]
+    },
+    "items": [],
+    "slice_type": "instagram_gallery_slice"
+  }
+]

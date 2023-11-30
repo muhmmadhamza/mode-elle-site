@@ -1,0 +1,15 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "PortfoliosSlice",
+    "primary": {
+      "divisionName": "cultivate out-of-the-box interfaces",
+      "subsetUsernames": "maximize web-enabled interfaces"
+    },
+    "items": [],
+    "slice_type": "portfolios_slice"
+  }
+]

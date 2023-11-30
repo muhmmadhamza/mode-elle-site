@@ -1,0 +1,9 @@
+{
+  "apiEndpoint": "https://mode-elle.cdn.prismic.io/api/v2",
+  "libraries": [
+    "@/slices",
+    "essential-slices"
+  ],
+  "_latest": "0.0.46",
+  "storybook": "http://localhost:8888"
+}

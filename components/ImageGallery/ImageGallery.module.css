@@ -1,0 +1,11 @@
+.customDots button {
+  border: none;
+  background-color: rgba(0, 0, 0, 0.6);
+  margin: 0 5px;
+  padding: 3px 8px;
+  border-radius: 1px;
+}
+
+.customSlider {
+  overflow: visible !important;
+}
